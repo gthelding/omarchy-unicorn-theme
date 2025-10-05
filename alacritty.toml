@@ -1,72 +1,61 @@
 [colors.primary]
-foreground = "#575279"
-background = "#faf4ed"
-dim_foreground = "#797593"
-bright_foreground = "#575279"
+background = "#030303"
+foreground = "#ffffff"
 
 [colors.cursor]
-text = "#575279"
-cursor = "#cecacd"
+text = "#030303"
+cursor = "#ffffff"
 
 [colors.vi_mode_cursor]
-text = "#575279"
-cursor = "#cecacd"
+text = "#030303"
+cursor = "#ffffff"
 
 [colors.search.matches]
-foreground = "#797593"
-background = "#f2e9e1"
+foreground = "#030303"
+background = "#ffffff"
 
 [colors.search.focused_match]
-foreground = "#faf4ed"
-background = "#d7827e"
-
-[colors.hints.start]
-foreground = "#797593"
-background = "#fffaf3"
-
-[colors.hints.end]
-foreground = "#9893a5"
-background = "#fffaf3"
+foreground = "CellBackground"
+background = "CellForeground"
 
 [colors.line_indicator]
 foreground = "None"
 background = "None"
 
 [colors.footer_bar]
-foreground = "#575279"
-background = "#fffaf3"
+foreground = "#aa8e99"
+background = "#ffffff"
 
 [colors.selection]
-text = "#575279"
-background = "#dfdad9"
+text = "CellBackground"
+background = "CellForeground"
 
 [colors.normal]
-black = "#f2e9e1"
-red = "#b4637a"
-green = "#ad92c9"
-yellow = "#ea9d34"
-blue = "#56949f"
-magenta = "#907aa9"
-cyan = "#d7827e"
-white = "#575279"
+black = "#030303"
+red = "#847E83"
+green = "#B0AAA3"
+yellow = "#DFAAA6"
+blue = "#EFD8A5"
+magenta = "#AC97CC"
+cyan = "#DAA7D7"
+white = "#f3ccdb"
 
 [colors.bright]
-black = "#9893a5"
-red = "#b4637a"
-green = "#ad92c9"
-yellow = "#ea9d34"
-blue = "#56949f"
-magenta = "#907aa9"
-cyan = "#d7827e"
-white = "#575279"
+black = "#aa8e99"
+red = "#b6b2b5"
+green = "#dfddda"
+yellow = "#faf2f1"
+blue = "#fefefc"
+magenta = "#e3dbee"
+cyan = "#f8eff8"
+white = "#ffffff"
 
 [colors.dim]
-black = "#9893a5"
-red = "#b4637a"
-green = "#ad92c9"
-yellow = "#ea9d34"
-blue = "#56949f"
-magenta = "#907aa9"
-cyan = "#d7827e"
-white = "#575279"
-
+black = "#ffffff"
+red = "#b6b2b5"
+green = "#dfddda"
+yellow = "#faf2f1"
+blue = "#fefefc"
+magenta = "#e3dbee"
+cyan = "#f8eff8"
+white = "#aa8e99"

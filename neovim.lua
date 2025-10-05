@@ -1,9 +1,12 @@
 return {
-	{ "rose-pine/neovim", name = "rose-pine" },
+	{
+		"bjarneo/pixel.nvim",
+		name = "pixel",
+	},
 	{
 		"LazyVim/LazyVim",
 		opts = {
-			colorscheme = "rose-pine-dawn",
+			colorscheme = "pixel",
 		},
 	},
 }
